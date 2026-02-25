@@ -55,7 +55,7 @@ Breast Cancer Wisconsin Dataset
 - F1-Score: 98.8%
 - Confusion Matrix and ROC curve:  
 
-![Confusion Matrix and ROC curve](images\resultados.jpg)  
+![Confusion Matrix and ROC curve](images/resultados.jpg)  
 
 ---
 
